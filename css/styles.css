@@ -1,0 +1,58 @@
+#title{
+    background-color: #FF4260;
+    padding-top: 30px;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+   font-weight: 900;
+    line-height: 1.5;
+   color: white;
+}
+/* NAVBAR */
+.navbar{
+    padding-bottom: 4rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+
+
+/* download buttons */
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+/* title image */
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
+/* Feature section */
+.row{
+    text-align: center;
+    padding: 5% 0;
+}
+.icons{
+    font-size:10rem;
+    color:#ef8172;
+    margin: 5% 5%;
+}
+.icons:hover{
+    color: #ff4c68;
+} 
+h3{
+    font-size: 1.5rem;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+.row p{
+    width: 50%;
+    margin: 5px auto;
+    color:#8f8f8f;
+    font-family: 'Montserrat';
+    
+}
