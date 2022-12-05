@@ -4,6 +4,7 @@ body{
 }
 #title{
     background-color: #FF4260;
+    position: relative;
 }
 .container-fluid{
     padding: 3% 15% 5%;
@@ -33,6 +34,9 @@ em{
 
 
 /* title */
+.title-img-sec{
+  padding-bottom: 30%;
+}
 .title-img{
     width: 25%;
     transform: rotate(25deg);
