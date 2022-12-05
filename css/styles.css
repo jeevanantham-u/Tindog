@@ -1,9 +1,4 @@
 
-@media (max-width:922px) {
-    .title-img-sec{
-        display: none;
-    }
-}
 body{
     font-family: 'montserrat';
 }
@@ -39,7 +34,7 @@ em{
 
 /* title */
 .title-img{
-    width: 20%;
+    width: 25%;
     transform: rotate(25deg);
     position: absolute;
     left: 60%;
@@ -109,5 +104,32 @@ em{
 .press-logo{
     width: 15%;
     margin: 20px 20px 50px;
-    
+}
+/* pricing section */
+#pricing{
+    padding: 3% 17%;
+    text-align: center;
+}
+.btn-m{
+    margin-top: 2.5rem;
+}
+#cta{
+    background-color: #ef8172;
+    color: #fff;
+    padding: 3% 17%;
+    text-align: center;
+}
+#cta h3{
+    padding: 5%;
+}
+.card{
+    margin-bottom: 20px;
+}
+
+
+/* footer */
+#footer{
+    background-color: #fff;
+    padding: 2%;
+    text-align: center;
 }
