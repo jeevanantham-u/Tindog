@@ -141,7 +141,7 @@ em{
     transform: scale(1.2);
     color: #FF4260;
 }
-@media (max-width:922px) {
+@media (max-width:1200px) {
    
    #title{
         text-align: center;
